@@ -1,0 +1,27 @@
+{
+  "name": "safe-log-error",
+  "version": "1.0.0",
+  "description": "A JS Error wrapper that limits `err.message` to some fixed length if the same error is seen before - Use at your own risk !",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bacloud22/safe-log-error.git"
+  },
+  "keywords": [
+    "exception",
+    "error",
+    "production",
+    "javascript"
+  ],
+  "author": "bacloud14[at]gmail(dot)com (https://github.com/bacloud22)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bacloud22/safe-log-error/issues"
+  },
+  "homepage": "https://github.com/bacloud22/safe-log-error#readme",
+  "devDependencies": {
+
+  }
+}
